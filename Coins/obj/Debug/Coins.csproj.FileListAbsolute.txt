@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Coins\Coins\obj\Debug\Coins.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Coins\Coins\obj\Debug\Coins.Form1.resources
+C:\Users\LENOVO\source\repos\Coins\Coins\obj\Debug\Coins.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Coins\Coins\obj\Debug\Coins.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Coins\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Coins\Coins\bin\Debug\Coins.exe.config
+C:\Users\LENOVO\source\repos\Coins\Coins\bin\Debug\Coins.exe
+C:\Users\LENOVO\source\repos\Coins\Coins\bin\Debug\Coins.pdb
+C:\Users\LENOVO\source\repos\Coins\Coins\obj\Debug\Coins.exe
+C:\Users\LENOVO\source\repos\Coins\Coins\obj\Debug\Coins.pdb
